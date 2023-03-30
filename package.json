@@ -2,11 +2,13 @@
   "name": "optimally",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Manoj735.github.io/OptimAlly",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "framer-motion": "^4.1.17",
+    "gh-pages": "^5.0.0",
     "lottie-react": "^2.1.0",
     "react": "^17.0.2",
     "react-compound-timer": "^1.2.0",
@@ -22,6 +24,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

@@ -1,3 +1,6 @@
+h1 {
+  color: rgb(3, 66, 45);
+}
 .total {
   background-color: #ffffff;
   height: 100vh;
@@ -6,7 +9,7 @@
   align-items: center;
   justify-content: center;
   margin: 100px;
-  margin-top:200px;
+  margin-top: 200px;
   max-width: 1500px;
 }
 .btn {
@@ -23,7 +26,7 @@
   outline: none;
   cursor: pointer;
 }
-.btn:hover{
+.btn:hover {
   background-color: rgb(209, 209, 209);
   color: black;
 }
@@ -56,7 +59,7 @@
   margin-right: 50px;
   margin-top: 100px;
 }
-.section2 img{
+.section2 img {
   height: 100%;
   width: 100%;
 }
