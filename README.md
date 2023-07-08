@@ -30,7 +30,7 @@ npm install -g create-react-app
 Clone the project in localhost
 
 ```bash
-git clone https://github.com/SairamNomula/OptimAlly.git
+git clone https://github.com/Manoj735/OptimAlly.git
 ```
 
 Install all the npm packages. Go into the project folder and type the following command to install all npm packages
